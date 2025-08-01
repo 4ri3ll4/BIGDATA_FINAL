@@ -35,8 +35,6 @@ This project explores how global interest in Netflix and YouTube evolved during 
   
   ![Data cleaning](screenshots/datacleaning.png)
   
-  ![Data cleaning](screenshots/datacleaning2.png)
-  
 - **Clustering with K-Means and Evaluation (Silhouette Score):**
   
    ![kmeans and silhoutte](screenshots/K-means_and_silhoutte_score.png)
@@ -49,7 +47,7 @@ This project explores how global interest in Netflix and YouTube evolved during 
   
 ![prophet](screenshots/prophet.png)
   
-![prophet](screenshots/forecast.png)
+![prophet](screenshots/Forecast.png)
   
 - **Additional graphs:**
   
