@@ -32,9 +32,9 @@ This project explores how global interest in Netflix and YouTube evolved during 
 
 ## 🔢 Python Code Snippets
 - **Data Cleaning:**
-  ![Data cleaning](screenshots/datacleaning.png)
-  ![Data cleaning](screenshots/datacleaning2.png)
-  ![Data cleaning](screenshots/datacleaning3.png)
+  ![Data cleaning](screenshots/data cleaning.png)
+  ![Data cleaning](screenshots/data cleaning2.png)
+  ![Data cleaning](screenshots/data cleaning3.png)
 - **Clustering with K-Means:**
   
 - **Evaluation (Silhouette Score):**
