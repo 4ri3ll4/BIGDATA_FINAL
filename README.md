@@ -32,17 +32,30 @@ This project explores how global interest in Netflix and YouTube evolved during 
 
 ## 🔢 Python Code Snippets
 - **Data Cleaning:**
-  ![Data cleaning](screenshots/datacleaning.png)
-  ![Data cleaning](screenshots/datacleaning2.png)
-  ![Data cleaning](screenshots/datacleaning3.png)
-- **Clustering with K-Means:**
   
-- **Evaluation (Silhouette Score):**
+  ![Data cleaning](screenshots/datacleaning.png)
+  
+  ![Data cleaning](screenshots/datacleaning2.png)
+  
+- **Clustering with K-Means and Evaluation (Silhouette Score):**
+  
+   ![kmeans and silhoutte](screenshots/K-means_and_silhoutte_score.png)
   
 - **ARIMA Forecasting Model:**
+  
+ ![arima](screenshots/ARIMA.png)
 
 - **Forecasting with Prophet:**
   
+![prophet](screenshots/prophet.png)
+  
+![prophet](screenshots/forecast.png)
+  
+- **Additional graphs:**
+  
+![heatmap](screenshots/heatmap.png)
+
+![trends](screenshots/Trends.png)
 
 ## 📊 Power BI Dashboard Summary
 -**Line Chart:** Weekly interest trends for Netflix and YouTube
@@ -53,7 +66,8 @@ This project explores how global interest in Netflix and YouTube evolved during 
 
 ## 📷 Dashboard Preview
 
-
+  ![my dashboard](screenshots/My_Dashboard.png)
+  
 ## 📅 Key Findings
 - YouTube consistently had higher popularity over all years.
 - Netflix interest peaked in 2020 during global lockdowns.
