@@ -32,11 +32,16 @@ This project explores how global interest in Netflix and YouTube evolved during 
 
 ## 🔢 Python Code Snippets
 - **Data Cleaning:**
-- 
-  
+  ![Data cleaning](screenshots/datacleaning.png)
+  ![Data cleaning](screenshots/datacleaning2.png)
+  ![Data cleaning](screenshots/datacleaning3.png)
 - **Clustering with K-Means:**
   
 - **Evaluation (Silhouette Score):**
+  
+- **ARIMA Forecasting Model:**
+
+- **Forecasting with Prophet:**
   
 
 ## 📊 Power BI Dashboard Summary
@@ -56,8 +61,16 @@ This project explores how global interest in Netflix and YouTube evolved during 
 - K-Means clustering revealed three main categories of interest patterns.
 
 ## ✨ Innovation
-- Designed a Competition Index to track attention gap between platforms.
-- Applied K-Means Clustering to detect natural interest segments.
+- Designed a **Competition Index** to track attention gap between platforms.
+- Applied **K-Means Clustering** to detect natural interest segments.
+- Implemented **ARIMA and Prophet models** to forecast future platform popularity trends based on historical data.
+  
+## ℹ️ How to Use
+**1.** Open dashboard.pbix in Power BI Desktop to view interactive dashboard.
+
+**2.** Run the analysis.ipynb notebook in Jupyter or any Python IDE.
+
+**3.** Browse the images folder for dashboard screenshots.
 
 ## 👩🏽‍💻 Author
 RUREBWAYIRE AMPOZE Ariella
