@@ -78,11 +78,11 @@ This project explores how global interest in Netflix and YouTube evolved during 
 - Implemented **ARIMA and Prophet models** to forecast future platform popularity trends based on historical data.
   
 ## ℹ️ How to Use
-**1.** Open dashboard.pbix in Power BI Desktop to view interactive dashboard.
+**1.** Open NetflixVSYouTube.pbix in Power BI Desktop to view interactive dashboard.
 
-**2.** Run the analysis.ipynb notebook in Jupyter or any Python IDE.
+**2.** Run the NetflixVSYouTube_cleaned.ipynb notebook in Jupyter or any Python IDE.
 
-**3.** Browse the images folder for dashboard screenshots.
+**3.** Browse the screenshots folder for dashboard screenshots and any other additional screenshots from python.
 
 ## 👩🏽‍💻 Author
 RUREBWAYIRE AMPOZE Ariella
